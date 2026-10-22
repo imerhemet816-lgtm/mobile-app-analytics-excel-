@@ -1,2 +1,2 @@
-# mobile-app-analytics-excel-
-Excel-based analysis of mobile app user engagement, campaign performance, regional revenue, and cohort retention.  Copy Description
+Bu README layihənin məqsədini, 200 istifadəçi və 1.188 aktivlik qeydindən ibarət dataseti, analizləri, əsas nəticələri və məlumat keyfiyyəti məhdudiyyətlərini izah edir.
+ Copy Full Mobile App README
